@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 🌐 Let's Connect
 I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
 [![Instagram Badge](https://img.shields.io/badge/-_prathm_22-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
 [![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
@@ -25,9 +26,9 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
