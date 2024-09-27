@@ -1,24 +1,24 @@
-## Hello there  ��, I'm Sanket Khote
+👋 Hi, I'm Prathmesh Chalke!
 
-I'm Sanket and I am Full stack web developer as well as Flutter developer.
+Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Developer with a deep love for crafting elegant web and mobile applications. Whether it’s building intuitive UIs, optimizing back-end logic, or experimenting with new technologies, I’m always excited to dive into code.
 
-* �� I’m currently working on Coding Script project [`Coding Script`](http://codingscript.epizy.com/)
-* �� I’m looking to collaborate on project
-* �� I’m looking for help with http://codingscript.epizy.com/
-* �� How to reach me:sanketkhote43@gmail.com
+🚀 What I'm Working On
 
-##  ⚡ Connect With Me
+🔨 Building: A cutting-edge platform Coding Script where developers can explore new challenges, sharpen their coding skills, and grow.
+🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
+🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Coding Script.
+📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
 
-[![Linkedin Badge](https://img.shields.io/badge/-sanketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-khote-b95438220/)](https://www.linkedin.com/in/sanket-khote-b95438220/)
-[![Twitter Badge](https://img.shields.io/badge/-sanketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sanketkhote99)](https://twitter.com/sanketkhote99)
-[![Instagram Badge](https://img.shields.io/badge/-sanket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sanket.khote/)](https://instagram.com/sanket.khote)
-[![Github Badge](https://img.shields.io/badge/-Sanketkhote99-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SanketKhote99/)](https://github.com/Sanketkhote99)
+🌐 Let's Connect
+I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
 
-***
+[![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
+[![Instagram Badge](https://img.shields.io/badge/-prathmesh.chalke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
+[![Github Badge](https://img.shields.io/badge/-Sanketkhote99-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
 
-## ⚡ Technology
 
-![Laravel](https://img.shields.io/badge/-laravel-white?style=flat-square&logo=laravel)
+🛠️ Technologies & Tools
+
 ![Vue](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
 ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
@@ -34,10 +34,11 @@ I'm Sanket and I am Full stack web developer as well as Flutter developer.
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SanketKhote99&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketKhote99&hide=TeX&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=dark)
 
-[![Sanket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=SanketKhote99&repo=Portfolio&theme=dark)](https://github.com/SanketKhote99/Portfolio)
+[![Sanket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=PrathmeshChalke&repo=Portfolio&theme=dark)](https://github.com/SanketKhote99/Portfolio)
 
 
-### Show some ❤️ by starring some of the repositories!
+❤️ Show Some Love!
+If you find my work helpful or interesting, feel free to star some of my repositories, or drop me a message — I’d love to hear your thoughts!
