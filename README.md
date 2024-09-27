@@ -17,20 +17,20 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 [![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
 [![Instagram Badge](https://img.shields.io/badge/-_prathm_22-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
-[![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
+[![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=white&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
 
 
 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
