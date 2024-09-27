@@ -17,7 +17,7 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 [![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
 [![Instagram Badge](https://img.shields.io/badge/-_prathm_22-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
-[![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=white&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
+[![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
 
 
 🛠️ Technologies & Tools
@@ -31,7 +31,7 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
 
