@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 
 🚀 What I'm Working On
 
-🔨 Building: A cutting-edge platform Coding Script where developers can explore new challenges, sharpen their coding skills, and grow.
+🔨 Building: Currently developing an Expense Tracker platform, designed to help users easily manage and track their personal finances. With intuitive features, users can categorize expenses, monitor spending habits, and improve financial planning.
 
 🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
 
