@@ -26,7 +26,7 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
