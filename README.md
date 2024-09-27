@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 
 🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
 
-🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Coding Script.
+🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Expense Tracker.
 
 📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
 
