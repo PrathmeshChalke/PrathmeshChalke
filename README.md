@@ -19,11 +19,9 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 🛠️ Technologies & Tools
 
-![Vue](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
-![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -34,10 +32,9 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=light)
 
-[![Sanket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=PrathmeshChalke&repo=Portfolio&theme=dark)](https://github.com/SanketKhote99/Portfolio)
 
 
 ❤️ Show Some Love!
