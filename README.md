@@ -4,22 +4,22 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 
 🚀 What I'm Working On
 
-🔨 Building: Currently developing an Expense Tracker platform, designed to help users easily manage and track their personal finances. With intuitive features, users can categorize expenses, monitor spending habits, and improve financial planning.
+* 🔨 Building: Currently developing an Expense Tracker platform, designed to help users easily manage and track their personal finances. With intuitive features, users can categorize expenses, monitor spending habits, and improve financial planning.
 
-🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
+* 🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
 
-🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Expense Tracker.
+* 🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Expense Tracker.
 
-📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
+* 📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
 
 🌐 Let's Connect
 I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
 [![Instagram Badge](https://img.shields.io/badge/-_prathm_22-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
 [![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
 
+***
 
 🛠️ Technologies & Tools
 
@@ -33,12 +33,12 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
 
-
+***
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=light)
 
-
+***
 
 ❤️ Show Some Love!
 If you find my work helpful or interesting, feel free to star some of my repositories, or drop me a message — I’d love to hear your thoughts!
