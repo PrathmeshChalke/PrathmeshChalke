@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 🌐 Let's Connect
 I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
 
-[![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
-[![Instagram Badge](https://img.shields.io/badge/-_prathm_22-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
+[![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
+[![Instagram Badge](https://img.shields.io/badge/-_prathm_22-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/_prathm__22/)](https://www.instagram.com/_prathm__22/)
 [![Github Badge](https://img.shields.io/badge/-PrathmeshChalke-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/PrathmeshChalke/)](https://github.com/PrathmeshChalke/)
 
 
