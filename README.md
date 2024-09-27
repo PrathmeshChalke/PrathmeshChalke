@@ -35,8 +35,8 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=light)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=system)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=system)
 
 
 
