@@ -33,8 +33,6 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)
 
-***
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshChalke&count_private=true&show_icons=true&include_all_commits=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshChalke&hide=TeX&layout=compact&theme=light)
 
