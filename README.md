@@ -1,8 +1,8 @@
-👋 Hi, I'm Prathmesh Chalke!
+## 👋 Hi, I'm Prathmesh Chalke!
 
 Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Developer with a deep love for crafting elegant web and mobile applications. Whether it’s building intuitive UIs, optimizing back-end logic, or experimenting with new technologies, I’m always excited to dive into code.
 
-🚀 What I'm Working On
+## 🚀 What I'm Working On
 
 * 🔨 Building: Currently developing an Expense Tracker platform, designed to help users easily manage and track their personal finances. With intuitive features, users can categorize expenses, monitor spending habits, and improve financial planning.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 
 * 📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
 
-🌐 Let's Connect
+## 🌐 Let's Connect
 I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
 
 [![Linkedin Badge](https://img.shields.io/badge/-prathmeshchalke-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prathmesh-chalke-138926201/)](https://www.linkedin.com/in/prathmesh-chalke-138926201/)
@@ -21,7 +21,7 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 ***
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
@@ -40,5 +40,5 @@ I’m always looking to connect with like-minded developers, entrepreneurs, and 
 
 ***
 
-❤️ Show Some Love!
+## ❤️ Show Some Love!
 If you find my work helpful or interesting, feel free to star some of my repositories, or drop me a message — I’d love to hear your thoughts!
