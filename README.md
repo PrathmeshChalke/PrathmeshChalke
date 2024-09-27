@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm Prathmesh Chalke, a passionate Full-Stack Web Develope
 
 🚀 What I'm Working On
 
-*🔨 Building: A cutting-edge platform Coding Script where developers can explore new challenges, sharpen their coding skills, and grow.
+🔨 Building: A cutting-edge platform Coding Script where developers can explore new challenges, sharpen their coding skills, and grow.
 
-*🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
+🤝 Collaborating: Open to opportunities for collaboration on innovative projects that push the boundaries of web and mobile app development.
 
-*🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Coding Script.
+🌱 Seeking Assistance: Looking for fellow developers and enthusiasts to contribute to Coding Script.
 
-*📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
+📧 Reach Me At: Feel free to shoot me an email at prathmesh.chalke800@gmail.com for project discussions or tech inquiries!
 
 🌐 Let's Connect
 I’m always looking to connect with like-minded developers, entrepreneurs, and enthusiasts. Don’t hesitate to connect with me on these platforms:
